@@ -1,3 +1,4 @@
+![Screenshot 2025-03-02 151419](https://github.com/user-attachments/assets/e4ae88a0-986b-4b6c-be65-67eeef6ba19f)
 # Face Recognition Attendance System 👤📸
 
 ![Banner](https://img.shields.io/badge/Version-1.0.0-blue.svg) ![Python](https://img.shields.io/badge/Python-3.8%2B-green.svg) ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -20,10 +21,12 @@ A robust and efficient **Face Recognition Attendance System** built with Python,
 
 ## 📷 Screenshots
 
+## 📷 Screenshots
+
 | Student Management Panel | Face Recognition in Action |
 |--------------------------|----------------------------|
-| ![Screenshot 2025-03-02 151443](https://github.com/user-attachments/assets/7c6d4b51-7a95-4e6f-9152-8b5e227420bd)
- | ![Screenshot 2025-05-02 070038](https://github.com/user-attachments/assets/3622c83a-6cf4-46de-aca4-6dd03b2e746e)
+| ![Screenshot 2025-03-02 151616](https://github.com/user-attachments/assets/4ac1b294-0b99-4675-88ca-ac3d42ea4582)
+ | ![Screenshot 2025-05-02 070038](https://github.com/user-attachments/assets/ca1343da-7c24-44b2-b5c5-2e328fd10024)
  |
  
 ---
