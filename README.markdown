@@ -1,4 +1,4 @@
-# Face Recognition Attendance System 👤📸
+![image](https://github.com/user-attachments/assets/9e12017f-a046-45da-bf1a-7f4b74e9d8af)# Face Recognition Attendance System 👤📸
 
 ![Banner](https://img.shields.io/badge/Version-1.0.0-blue.svg) ![Python](https://img.shields.io/badge/Python-3.8%2B-green.svg) ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
@@ -22,9 +22,10 @@ A robust and efficient **Face Recognition Attendance System** built with Python,
 
 | Student Management Panel | Face Recognition in Action |
 |--------------------------|----------------------------|
-| https://github.com/user-attachments/assets/60d17cf2-23f6-4d8d-b26b-4f0754b01cb1| !https://github.com/user-attachments/assets/ac128e93-13dd-4afe-a246-be8ee4dcc73a
-|
-
+| ![Screenshot 2025-03-02 151443](https://github.com/user-attachments/assets/7c6d4b51-7a95-4e6f-9152-8b5e227420bd)
+ | ![Screenshot 2025-05-02 070038](https://github.com/user-attachments/assets/3622c83a-6cf4-46de-aca4-6dd03b2e746e)
+ |
+ 
 ---
 
 ## 🚀 Getting Started
@@ -178,7 +179,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or suggestions, feel free to reach out:
 
 - **Email**: shaikhanique07.com
-- **GitHub Issues**: [Open an Issue](AI_BASED_FACE_RECOGNITION_AND_ATTENDANCE_SYSTEM)
+- **GitHub Issues**: [Open an Issue](AI_BASED_FACE_RECOGNITION_AND_ATTENDANCE_SYSTEM/issues)
 
 ---
 
