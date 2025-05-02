@@ -22,9 +22,9 @@ A robust and efficient **Face Recognition Attendance System** built with Python,
 
 | Student Management Panel | Face Recognition in Action |
 |--------------------------|----------------------------|
-| ![Student Panel](https://via.placeholder.com/400x300.png?text=Student+Panel) | ![Face Recognition](https://via.placeholder.com/400x300.png?text=Face+Recognition) |
-
-*(Replace the placeholder links with actual screenshots of your application for a more engaging README.)*
+| ![Student Panel](![Screenshot 2025-03-02 151443](https://github.com/user-attachments/assets/60d17cf2-23f6-4d8d-b26b-4f0754b01cb1)
+) | ![Face Recognition](![Screenshot 2025-03-03 104320](https://github.com/user-attachments/assets/ac128e93-13dd-4afe-a246-be8ee4dcc73a)
+) |
 
 ---
 
@@ -179,7 +179,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or suggestions, feel free to reach out:
 
 - **Email**: shaikhanique07.com
-- **GitHub Issues**: [Open an Issue](AI_BASED_FACE_RECOGNITION_AND_ATTENDANCE_SYSTEM/issues)
+- **GitHub Issues**: [Open an Issue](AI_BASED_FACE_RECOGNITION_AND_ATTENDANCE_SYSTEM)
 
 ---
 
