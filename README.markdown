@@ -22,9 +22,8 @@ A robust and efficient **Face Recognition Attendance System** built with Python,
 
 | Student Management Panel | Face Recognition in Action |
 |--------------------------|----------------------------|
-| ![Student Panel](![Screenshot 2025-03-02 151443](https://github.com/user-attachments/assets/60d17cf2-23f6-4d8d-b26b-4f0754b01cb1)
-) | ![Face Recognition](![Screenshot 2025-03-03 104320](https://github.com/user-attachments/assets/ac128e93-13dd-4afe-a246-be8ee4dcc73a)
-) |
+| https://github.com/user-attachments/assets/60d17cf2-23f6-4d8d-b26b-4f0754b01cb1| !https://github.com/user-attachments/assets/ac128e93-13dd-4afe-a246-be8ee4dcc73a
+|
 
 ---
 
