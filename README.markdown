@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9e12017f-a046-45da-bf1a-7f4b74e9d8af)# Face Recognition Attendance System 👤📸
+# Face Recognition Attendance System 👤📸
 
 ![Banner](https://img.shields.io/badge/Version-1.0.0-blue.svg) ![Python](https://img.shields.io/badge/Python-3.8%2B-green.svg) ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
