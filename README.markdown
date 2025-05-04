@@ -180,7 +180,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or suggestions, feel free to reach out:
 
 - **Email**: shaikhanique07gmail.com
-- **GitHub Issues**: [Open an Issue](/issues)
+- **GitHub Issues**: [Open an Issue](https://github.com/ANIQUESK/AI_BASED_FACE_RECOGNITION_AND_ATTENDANCE_SYSTEM/issues)
 
 ---
 
