@@ -180,7 +180,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or suggestions, feel free to reach out:
 
 - **Email**: shaikhanique07gmail.com
-- **GitHub Issues**: [Open an Issue](AI_BASED_FACE_RECOGNITION_AND_ATTENDANCE_SYSTEM)
+- **GitHub Issues**: [Open an Issue](AI_BASED_FACE_RECOGNITION_AND_ATTENDANCE_SYSTEM/Issue)
 
 ---
 
